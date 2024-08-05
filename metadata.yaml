@@ -1,0 +1,54 @@
+_repo: Thoughts-on-the-mechanism-of-societies_73958
+_version: 0.0.1
+alternative_title: Considérations sur quelques parties du méchanisme des sociétés.
+  English
+contributor:
+  translator:
+    agent_name: Macmahon, Joseph Parkyns
+    aliases:
+    - Parkyns Macmahon, Joseph
+    - Macmahon, Parkyns
+    - Mahon, Parkyns Mac
+    gutenberg_agent_id: '57288'
+    url: http://www.gutenberg.org/2009/agents/57288
+creator:
+  author:
+    agent_name: Casaux, Charles, marquis de
+    aliases:
+    - Casaux, Marquis de
+    - Casaux, Alexandre Cazaud, marquis de
+    - Casaux, M. de (Charles)
+    - Cazaud, Charles, marquis de
+    - De Casaux, Charles, marquis
+    birthdate: 1727
+    deathdate: 1796
+    gutenberg_agent_id: '57287'
+    url: http://www.gutenberg.org/2009/agents/57287
+    wikipedia: https://fr.wikipedia.org/wiki/Alexandre_Cazeau_de_Roumillac
+description: ''
+gutenberg_issued: '2024-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73958'
+  lccn: '2022658178'
+language: en
+pgterms:marc904: https://archive.org/details/thoughtsonmechan00casa/page/n5/mode/2up
+pgterms:marc905: 20201001215225casaux
+pgterms:marc906: '1786'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aSnowhill :$bT. Spilsbury, $c1786.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Debts, Public -- Great Britain -- Early works to 1800'
+- !lcsh 'Taxation -- Great Britain -- Early works to 1800'
+- !lcsh 'Finance, Public -- Great Britain -- Early works to 1800'
+- !lcsh 'Political science -- France -- Early works to 1800'
+- !lcc 'HJ'
+- GITenberg
+title: Thoughts on the mechanism of societies
+url: http://www.gutenberg.org/ebooks/73958
