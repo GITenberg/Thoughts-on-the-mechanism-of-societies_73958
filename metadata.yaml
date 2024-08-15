@@ -11,6 +11,9 @@ contributor:
     - Mahon, Parkyns Mac
     gutenberg_agent_id: '57288'
     url: http://www.gutenberg.org/2009/agents/57288
+covers:
+- cover_type: archival
+  image_path: 73958-h/images/cover.jpg
 creator:
   author:
     agent_name: Casaux, Charles, marquis de
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57287
     wikipedia: https://fr.wikipedia.org/wiki/Alexandre_Cazeau_de_Roumillac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73958#Thoughts-on-the-mechanism-of-societies
 gutenberg_issued: '2024-07-01'
 gutenberg_type: Text
 identifiers:
